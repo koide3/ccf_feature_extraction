@@ -53,4 +53,4 @@ Person images taken from CUHK01.
 
 
 ## Papers
-Kenji Koide, Jun Miura, Convolutional Channel Filter-based Person Identification for Person Following Robots, 15th IAS Conference (under review) [PDF].
+Kenji Koide, Jun Miura, Convolutional Channel Filter-based Person Identification for Person Following Robots, 15th IAS Conference [PDF](https://www.researchgate.net/publication/325854919_Convolutional_Channel_Features-based_Person_Identification_for_Person_Following_Robots).
